@@ -1,0 +1,13 @@
+Note: Choices made to be as small as possible to fit inside GitHub max file size.
+
+Windows: 
+    All: Electron 32 bit
+
+Mac OS:
+    If uses video sensing or loudness:
+        NW.js
+    Else:
+        WKWebView (test because if too big might not work)
+
+Linux:
+    All: Electron
