@@ -4,10 +4,9 @@ Windows:
     All: Electron 32 bit
 
 Mac OS:
-    If uses video sensing or loudness:
+    Try WKWebView
+    Except too big:
         NW.js
-    Else:
-        WKWebView (test because if too big might not work)
 
 Linux:
     All: Electron
